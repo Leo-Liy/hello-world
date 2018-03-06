@@ -1,5 +1,6 @@
 # hello-world
-just another repository
+
+try again about github flow.
 
 Hi Humans!
 
